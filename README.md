@@ -1,5 +1,5 @@
 # KMSpico_v10.2.0 by @heldigard
-A tool that use for active MS Windows and MS Office. by @heldigard
+A tool that used to active MS Windows and MS Office. by @heldigard
 
 Important: If you like MS Windows and MS Office please buy legal and original
             this program help to test this products, but recommend you buy legal from creators (M$ Corp).
